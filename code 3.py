@@ -1,4 +1,4 @@
-# Simple Task Manager
+# To Do List
 
 tasks = []
 
